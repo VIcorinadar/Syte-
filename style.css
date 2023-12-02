@@ -26,6 +26,7 @@ p {
 
 .textv1 {
   color: var(--grey-15, #262626);
+  text-align: left;
   font-family: Be Vietnam Pro;
   font-size: 48px;
   font-style: normal;
@@ -35,6 +36,7 @@ p {
 
 .textv2 {
   color: var(--grey-35, #59595A);
+  text-align: left;
   font-family: Be Vietnam Pro;
   font-size: 18px;
   font-style: normal;
