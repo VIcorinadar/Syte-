@@ -1,9 +1,86 @@
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&display=swap');
 
-/daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/
-
 p {
   font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.nv0 {
+	background-color: orange;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 5VH;
+	width: 100%;
+}
+
+.nv1 {
+	position: absolute;
+	top: 5VH;
+	left: 0px;
+	height: 10VH;
+	width: 100%;
+}
+
+.nv2 {
+	display: inline-block;
+	width: 7%;
+}
+
+.nv3 {
+	display: inline-block;
+	width: 3%;
+}
+
+.nv4 {
+	display: inline-block;
+	width: 2%;
+}
+
+.nv5 {
+	background-color: lightgrey;
+	display: inline-block;
+	width: 4%;
+}
+
+.nv6 {
+	display: inline-block;
+	width: 4%;
+}
+
+.nv7 {
+	display: inline-block;
+	width: 4%;
+}
+
+.nv8 {
+	display: inline-block;
+	width: 4%;
+}
+
+.nv9 {
+	display: inline-block;
+	width: 4%;
+}
+
+.nv10 {
+	display: inline-block;
+	width: 45%;
+}
+
+.nv11 {
+	display: inline-block;
+	width: 5%;
+}
+
+.nv12 {
+	background-color: orange;
+	display: inline-block;
+	width: 5%;
+}
+
+.nv13 {
+	display: inline-block;
+	width: 7%;
 }
 
 .text1 {
